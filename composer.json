@@ -2,6 +2,7 @@
   "name": "nova9469/yii2-notification",
   "description": "Simple but useful JS notification script with PHP Api.",
   "minimum-stability": "dev",
+  "prefer-stable": true,
   "keywords": [
     "notification",
     "notify"
